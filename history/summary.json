@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rifqimulyawan.com.ico",
     "slug": "rifqi-mulyawan",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 103,
-    "timeDay": 103,
-    "timeWeek": 103,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "uptime": "8.48%",
+    "uptimeDay": "8.48%",
+    "uptimeWeek": "8.48%",
+    "uptimeMonth": "8.48%",
+    "uptimeYear": "8.48%",
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-03-24": 10
+      "2024-03-24": 20
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 1238,
-    "timeWeek": 1238,
-    "timeMonth": 1238,
-    "timeYear": 1238,
+    "time": 1194,
+    "timeDay": 1194,
+    "timeWeek": 1194,
+    "timeMonth": 1194,
+    "timeYear": 1194,
     "dailyMinutesDown": {}
   }
 ]
