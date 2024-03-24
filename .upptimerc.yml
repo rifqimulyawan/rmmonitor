@@ -5,10 +5,8 @@ repo: rmmonitor # The name of this repository
 sites:
   - name: Rifqi Mulyawan
     url: https://rifqimulyawan.com
-  - name: Invitee Site
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Nadia Aisyah
+    url: https://nadiaaisyah.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
