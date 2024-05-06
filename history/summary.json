@@ -24,17 +24,19 @@
     "url": "https://nadiaaisyah.com",
     "icon": "https://icons.duckduckgo.com/ip3/nadiaaisyah.com.ico",
     "slug": "nadia-aisyah",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2322,
-    "timeDay": 3257,
-    "timeWeek": 2708,
-    "timeMonth": 2257,
-    "timeYear": 2322,
-    "dailyMinutesDown": {}
+    "time": 2293,
+    "timeDay": 1948,
+    "timeWeek": 2501,
+    "timeMonth": 2211,
+    "timeYear": 2293,
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   }
 ]
