@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rifqimulyawan.com.ico",
     "slug": "rifqi-mulyawan",
     "status": "down",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 94,
-    "timeDay": 35,
-    "timeWeek": 88,
-    "timeMonth": 97,
-    "timeYear": 94,
+    "uptimeYear": "99.98%",
+    "time": 93,
+    "timeDay": 38,
+    "timeWeek": 82,
+    "timeMonth": 95,
+    "timeYear": 93,
     "dailyMinutesDown": {
       "2024-03-24": 20
     }
@@ -24,7 +24,7 @@
     "url": "https://nadiaaisyah.com",
     "icon": "https://icons.duckduckgo.com/ip3/nadiaaisyah.com.ico",
     "slug": "nadia-aisyah",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1594,
     "timeMonth": 1999,
     "timeYear": 2149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-18": 0
+    }
   }
 ]
