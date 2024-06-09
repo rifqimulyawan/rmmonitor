@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 93,
-    "timeDay": 118,
-    "timeWeek": 87,
-    "timeMonth": 91,
+    "timeDay": 84,
+    "timeWeek": 80,
+    "timeMonth": 90,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2024-03-24": 20
@@ -26,17 +26,16 @@
     "slug": "nadia-aisyah",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
-    "time": 2384,
-    "timeDay": 1730,
-    "timeWeek": 2199,
-    "timeMonth": 2608,
-    "timeYear": 2384,
+    "time": 2395,
+    "timeDay": 1824,
+    "timeWeek": 2399,
+    "timeMonth": 2601,
+    "timeYear": 2395,
     "dailyMinutesDown": {
-      "2024-06-08": 7,
       "2024-06-06": 51
     }
   }
